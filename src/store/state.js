@@ -13,7 +13,7 @@ updateApp();
 export default {
   showLyrics: false,
   enableScrolling: true,
-  title: 'YesPlayMusic',
+  title: 'Scu-music',
   liked: {
     songs: [],
     songsWithDetails: [], // 只有前12首
