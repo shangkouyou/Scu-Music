@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://music-api-tau-one.vercel.app/:match*"
+    }
+  ]
+}
